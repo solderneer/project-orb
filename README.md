@@ -1,4 +1,4 @@
-# Orb, a 3D gaming mouse build for ease of use
+# Orb, a 3D gaming mouse built for ease of use
 * Built using a 6 axis IMU
 * One of my very first projects
 * Arduino based
