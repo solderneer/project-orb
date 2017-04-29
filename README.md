@@ -3,6 +3,7 @@
 * One of my very first projects
 * Arduino based
 * Fully 3D printed enclosure
+
 We were featured on Hackaday [here](http://hackaday.com/2015/04/10/hacklet-42-mouse-projects/)!
 ## Description
 Orb works on a simple system that consists of accelerometers and gyroscopes forming what is known as a Inertial Measurement Unit (IMU). This IMU is able to detect slight movements in 6 degrees of freedom. This enables the gamer to easily manipulate the 3D environment using a flick of the wrist. This, combined with some Arduino code, would allow me to translate the IMU data into movement commands for the cursor and also key presses for the keyboard using an arduino micro. This can allow us to game without a surface and have a more interactive gaming experience.
